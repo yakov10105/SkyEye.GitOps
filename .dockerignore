@@ -1,0 +1,13 @@
+# Git
+.git/
+.gitignore
+
+# Documentation
+*.md
+
+# IDE settings
+.vscode/
+.idea/
+
+# Gemini CLI files
+.gemini/

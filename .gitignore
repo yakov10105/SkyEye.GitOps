@@ -1,0 +1,18 @@
+# IDE settings
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Local environment values
+*.local.yaml
+values.local.yaml
+
+# Helm chart dependencies (if not checked in)
+charts/
+tmpcharts/
+
+# Gemini CLI files
+.gemini/
